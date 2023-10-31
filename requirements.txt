@@ -1,3 +1,5 @@
 imutils==0.5.4
-opencv_python==4.5.2.52
+#following line is unavailable and therefore changed to v4.5.3.56
+#opencv_python==4.5.2.52
+opencv_python==4.5.3.56
 img2pdf==0.4.1
